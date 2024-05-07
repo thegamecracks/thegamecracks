@@ -1,4 +1,7 @@
-- My gists: https://gist.github.com/thegamecracks
+I write stuff for fun. Check out [my repositories] and [gists]!
+
+[my repositories]: https://github.com/thegamecracks?tab=repositories&q=&type=source
+[gists]: https://gist.github.com/thegamecracks
 
 ![](images/popcorn1.png) ![](images/popcorn2.png) ![](images/popcorn3.png) ![](images/popcorn4.png) ![](images/popcorn5.png)
 
