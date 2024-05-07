@@ -1,5 +1,7 @@
 - My gists: https://gist.github.com/thegamecracks
 
+![](images/popcorn1.png) ![](images/popcorn2.png) ![](images/popcorn3.png) ![](images/popcorn4.png) ![](images/popcorn5.png)
+
 <!--
 **thegamecracks/thegamecracks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
