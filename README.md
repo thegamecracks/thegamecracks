@@ -1,4 +1,4 @@
-### Hi there 👋
+- My gists: https://gist.github.com/thegamecracks
 
 <!--
 **thegamecracks/thegamecracks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
