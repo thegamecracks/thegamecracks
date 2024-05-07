@@ -3,7 +3,7 @@ I write stuff for fun. Check out [my repositories] and [gists]!
 [my repositories]: https://github.com/thegamecracks?tab=repositories&q=&type=source
 [gists]: https://gist.github.com/thegamecracks
 
-[![](https://github.com/thegamecracks/thegamecracks/tree/main/images/popcorn.png)](https://youtu.be/BXPqkGGPLCI?t=2)
+[![](https://raw.githubusercontent.com/thegamecracks/thegamecracks/main/images/popcorn.png)](https://youtu.be/BXPqkGGPLCI?t=2)
 
 <!--
 **thegamecracks/thegamecracks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
