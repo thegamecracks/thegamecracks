@@ -3,10 +3,12 @@ I write stuff for fun. Check out [my repositories] and [gists]!
 [my repositories]: https://github.com/thegamecracks?tab=repositories&q=&type=source
 [gists]: https://gist.github.com/thegamecracks
 
-<img src="https://raw.githubusercontent.com/thegamecracks/thegamecracks/main/images/popcorn.png"
-        href="https://youtu.be/BXPqkGGPLCI?t=2"
-        style="vertical-align: middle;" />
-ポツプコーン
+<div>
+    <img src="https://raw.githubusercontent.com/thegamecracks/thegamecracks/main/images/popcorn.png"
+            href="https://youtu.be/BXPqkGGPLCI?t=2"
+            style="vertical-align: middle;" />
+    ポツプコーン
+</div>
 
 <!--
 **thegamecracks/thegamecracks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
