@@ -4,9 +4,10 @@ I write stuff for fun. Check out [my repositories] and [gists]!
 [gists]: https://gist.github.com/thegamecracks
 
 <div>
-    <img src="https://raw.githubusercontent.com/thegamecracks/thegamecracks/main/images/popcorn.png"
-            href="https://youtu.be/BXPqkGGPLCI?t=2"
-            style="vertical-align: middle;" />
+    <a href="https://youtu.be/BXPqkGGPLCI?t=2">
+        <img src="https://raw.githubusercontent.com/thegamecracks/thegamecracks/main/images/popcorn.png"
+             style="vertical-align: middle;" />
+    </a>
     ポツプコーン
 </div>
 
